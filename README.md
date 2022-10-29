@@ -1,2 +1,2 @@
-# IBMDataScienceCertificate
+# IBMDataScience
 Assignments
